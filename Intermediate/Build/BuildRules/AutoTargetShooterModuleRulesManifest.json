@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Documents\\Unreal Projects\\AutoTargetShooter\\Source\\AutoTargetShooter\\AutoTargetShooter.Build.cs",
+		"E:\\Documents\\Unreal Projects\\AutoTargetShooter\\Source\\AutoTargetShooter.Target.cs",
+		"E:\\Documents\\Unreal Projects\\AutoTargetShooter\\Source\\AutoTargetShooterEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

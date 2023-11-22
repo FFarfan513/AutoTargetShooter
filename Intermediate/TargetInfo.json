@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AutoTargetShooter",
+			"Path": "..\\Source\\AutoTargetShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AutoTargetShooterEditor",
+			"Path": "..\\Source\\AutoTargetShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
